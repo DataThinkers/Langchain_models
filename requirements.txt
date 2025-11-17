@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+langchain-openai
+langchain-core
+streamlit
